@@ -18,8 +18,8 @@ class EasyDict(dict):
 #----------------------------------------------------------------------------
 # Paths.
 
-data_dir = '/storage/datasets'
-result_dir = '/storage/results'
+data_dir = '/storage/pggan_datasets'
+result_dir = '/storage/pggan_results'
 
 #----------------------------------------------------------------------------
 # TensorFlow options.
